@@ -42,7 +42,7 @@ A sophisticated AI-powered carbon trading desk system that provides real-time ca
 ### Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/CarbonTrader.git
+git clone https://github.com/atamalik/CarbonTrader.git
 cd CarbonTrader
 
 # Create virtual environment
