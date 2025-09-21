@@ -1,0 +1,29 @@
+# Core dependencies
+streamlit>=1.28.0
+pandas>=1.5.0
+numpy>=1.24.0
+plotly>=5.15.0
+requests>=2.31.0
+
+# UI components
+streamlit-aggrid>=0.3.4
+
+# AI and workflow
+langgraph>=0.0.20
+crewai>=0.1.0
+
+# Database
+sqlite3
+
+# Data processing
+openpyxl>=3.1.0
+xlsxwriter>=3.1.0
+
+# Utilities
+python-dotenv>=1.0.0
+python-dateutil>=2.8.0
+
+# Development
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
